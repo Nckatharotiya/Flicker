@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flicker</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading_data">Loading data...</string>
+    <string name="no_photo_found">No Photos found for the search</string>
+    <string name="unexpected_server_response">"Oops something went wrong, please try again"</string>
+</resources>
